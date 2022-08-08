@@ -16,12 +16,14 @@
     "mongoose": "^6.5.1",
     "next": "12.2.2",
     "next-auth": "^4.10.3",
+    "promise": "^8.1.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hook-form": "^7.31.2",
     "react-toastify": "^9.0.7"
   },
   "devDependencies": {
+    "@next/eslint-plugin-next": "^12.2.4",
     "@types/react": "^18.0.15",
     "autoprefixer": "^10.4.7",
     "eslint": "8.20.0",
